@@ -11,6 +11,6 @@ Webサーバーソフト...Tomcat
 ブラウザ...Chrom  
 
 # Capture  
-    
+![ユーザー登録](https://user-images.githubusercontent.com/82762778/116815560-0e1c1700-ab99-11eb-90f8-ccbbe596f093.png)
 
 
