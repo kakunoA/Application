@@ -12,8 +12,8 @@ Webサーバーソフト...Tomcat
 
 # クラス概要  
 zyankenGame  
-   ├ daoパッケージ  
-   │     └ZyankenDAO.java...DBとのやりとりを行うDAOクラス  
+<br><br><br>├ daoパッケージ  
+<br>│       └ZyankenDAO.java...DBとのやりとりを行うDAOクラス  
    ├ modelパッケージ  
    │      └ DBUtil.java...DBの接続・切断を行うクラス  
    │      ├ GetScore.java...ジャンケン勝利ユーザーの情報を格納しているBeanクラス（ユーザーとジャンケン回数とユーザーのランキングを保持）  
