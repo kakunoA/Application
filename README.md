@@ -12,7 +12,7 @@ Webサーバーソフト...Tomcat
 
 # クラス概要  
 zyankenGame  
----├ daoパッケージ  
+   ├ daoパッケージ  
    │     └ZyankenDAO.java...DBとのやりとりを行うDAOクラス  
    ├ modelパッケージ  
    │      └ DBUtil.java...DBの接続・切断を行うクラス  
