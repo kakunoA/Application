@@ -60,3 +60,5 @@ Webサーバーソフト...Tomcat
 ![ロック解除後ログイン画面](https://user-images.githubusercontent.com/82762778/116817964-d6ff3300-aba3-11eb-921f-50f5661632d3.png)
 
 ![ロック解除後プレイ画面](https://user-images.githubusercontent.com/82762778/116818010-1af23800-aba4-11eb-8b97-cd72dcf34ac9.png)
+
+※他にパスワード変更の機能もあるが割愛
