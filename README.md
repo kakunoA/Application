@@ -4,7 +4,7 @@
 ど優秀という意味になります）。  
 
 # フレームワークとブラウザ  
-バックエンド...JSP、サーブレット  
+バックエンド...JSP、Servlet  
 フロントエンド...JavaScript、HTML、CSS  
 DB...H2  
 Webサーバーソフト...Tomcat  
