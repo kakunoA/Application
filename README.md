@@ -22,6 +22,6 @@ zyankenGame
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LoginLogic.java...ログインチェックを行うクラス  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PasswordInfo.java...パスワード変更を行うときに必要となるBeanクラス（ユーザーIDと旧パスワードと新パスワードを保持）
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PasswordUpdateLogic.java...パスワード変更を行うクラス  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ScoreLogic.java...ジャンケンで勝利したスコア上位8名の表示とユーザーのランキングを表示するクラス  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ScoreLogic.java...ジャンケンで勝利したスコア上位8名の表示とユーザーのランキングを表示するクラス  
 
 
