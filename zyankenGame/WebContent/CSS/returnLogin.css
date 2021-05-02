@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#errorMessage {
+	color: red;
+}
+
+#loginError {
+	margin:10px;
+	display: inline-block;
+}
