@@ -12,11 +12,11 @@ Webサーバーソフト...Tomcat
 
 # クラス概要  
 zyankenGame  
-<br>├ daoパッケージ  
-<br>│<br><br>└ZyankenDAO.java...DBとのやりとりを行うDAOクラス  
-<br>├ modelパッケージ  
-<br>   │      └ DBUtil.java...DBの接続・切断を行うクラス  
-<br>   │      ├ GetScore.java...ジャンケン勝利ユーザーの情報を格納しているBeanクラス（ユーザーとジャンケン回数とユーザーのランキングを保持）  
+   daoパッケージ  
+      ZyankenDAO.java...DBとのやりとりを行うDAOクラス  
+   modelパッケージ  
+<br><br>DBUtil.java...DBの接続・切断を行うクラス  
+<br>GetScore.java...ジャンケン勝利ユーザーの情報を格納しているBeanクラス（ユーザーとジャンケン回数とユーザーのランキングを保持）  
 <br>   │      ├ LockUser.java...ユーザーをロックしたときのBeanクラス（ロックユーザーとロック日時情報を保持） 
 <br>   │      ├ Login.java...ログイン情報のBeanクラス（ユーザーIDとパスワードを保持）
 <br>   │      ├ LoginLogic.java...ログインチェックを行うクラス  
