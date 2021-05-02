@@ -23,4 +23,6 @@ Webサーバーソフト...Tomcat
 
 ![ジャンケンゲーム](https://user-images.githubusercontent.com/82762778/116816813-78838600-ab9e-11eb-92b1-c3bb24ec6a5f.png)
 
-3-1. ジャンケンで負けた時
+3-1. ジャンケンで負けた時、「もう一回」ボタンのみが活性になる
+
+![ジャンケン負け](https://user-images.githubusercontent.com/82762778/116817025-7e2d9b80-ab9f-11eb-9ce1-94c79ee80fcd.png)
