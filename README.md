@@ -39,7 +39,7 @@ Webサーバーソフト...Tomcat
 
 ![ログアウト](https://user-images.githubusercontent.com/82762778/116817353-e03ad080-aba0-11eb-8374-078bd37d438e.png)
 
-6. ユーザー：hondaをロックし、hondaでログインした時にロック中画面に遷移することを確認する
+6. ユーザー：hondaをロックし、hondaでログインした時にロックユーザー画面に遷移することを確認する
 
 ![管理者権限ログイン](https://user-images.githubusercontent.com/82762778/116817482-8ab2f380-aba1-11eb-9172-aad61fbe20e7.png)
 
