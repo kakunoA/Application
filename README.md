@@ -27,6 +27,15 @@ Webサーバーソフト...Tomcat
 
 ![ジャンケン負け](https://user-images.githubusercontent.com/82762778/116817025-7e2d9b80-ab9f-11eb-9ce1-94c79ee80fcd.png)
 
-3-2. ジャンケンで勝った時、「もう一回」ボタンと「送信」ボタンが活性になる
+3-2. ジャンケンで勝った時、「もう一回」ボタンと「結果送信」ボタンが活性になる
 
-![Uploading ジャンケン勝ち.png…]()
+![ジャンケン勝ち](https://user-images.githubusercontent.com/82762778/116817187-280d2800-aba0-11eb-9a73-7385706dcdc7.png)
+
+4. 「結果送信」を押下すると、ジャンケンの成績上位8位（より早く5回勝って上がった人）とランキングが表示される
+
+![スコア](https://user-images.githubusercontent.com/82762778/116817310-a79af700-aba0-11eb-9ddd-1ffe841b5d48.png)
+
+5. ログアウト
+
+![ログアウト](https://user-images.githubusercontent.com/82762778/116817353-e03ad080-aba0-11eb-8374-078bd37d438e.png)
+
