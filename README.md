@@ -47,3 +47,6 @@ Webサーバーソフト...Tomcat
 
 ![ロック結果](https://user-images.githubusercontent.com/82762778/116817569-eed5b780-aba1-11eb-8bde-aedda3618258.png)
 
+![ロック検証ログイン](https://user-images.githubusercontent.com/82762778/116817677-8509dd80-aba2-11eb-9fc9-f12510a7d70b.png)
+
+![ロック検証画面](https://user-images.githubusercontent.com/82762778/116817725-c601f200-aba2-11eb-816e-8f2d22ae0646.png)
