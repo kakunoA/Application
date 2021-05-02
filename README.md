@@ -11,9 +11,12 @@ Webサーバーソフト...Tomcat
 ブラウザ...Chrom  
 
 # Capture  
-1. 管理者ユーザー：Z11101でログインし（画面は割愛）、ユーザー登録画面にてユーザーID：shinmura パスワード：shinmura00を登録
+1. 管理者ユーザー：Z11101でログインし（画面は割愛）、ユーザー登録画面にてユーザーID：honda パスワード：honda00を登録
 
 ![ユーザー登録](https://user-images.githubusercontent.com/82762778/116816401-be3f4f00-ab9c-11eb-9048-24f5e03444c2.png)
+
+
+![image](https://user-images.githubusercontent.com/82762778/116816527-3c035a80-ab9d-11eb-8248-0bc48d5d4c83.png)
 
 
 
