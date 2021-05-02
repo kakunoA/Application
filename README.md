@@ -13,6 +13,7 @@ Webサーバーソフト...Tomcat
 # Capture  
 1. 管理者ユーザー：Z11101でログインし（画面は割愛）、ユーザー登録画面にてユーザーID：shinmura パスワード：shinmura00を登録
 
-![ユーザー登録](https://user-images.githubusercontent.com/82762778/116815560-0e1c1700-ab99-11eb-90f8-ccbbe596f093.png)
+![ユーザー登録](https://user-images.githubusercontent.com/82762778/116816401-be3f4f00-ab9c-11eb-9048-24f5e03444c2.png)
+
 
 
