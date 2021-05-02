@@ -7,7 +7,7 @@
 バックエンド...JSP、Servlet  
 フロントエンド...JavaScript、HTML、CSS  
 DB...H2  
-Webサーバーソフト...Tomcat  
+Webサーバー...Tomcat  
 ブラウザ...Chrom  
 
 # 画面遷移  
