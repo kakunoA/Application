@@ -10,7 +10,7 @@ DB...H2
 Webサーバーソフト...Tomcat  
 ブラウザ...Chrom  
 
-# Capture  
+# 画面遷移  
 1. 管理者ユーザー：Z11101でログインし（画面は割愛）、ユーザー登録画面にてユーザーID：honda パスワード：honda11を登録
 
 ![ユーザー登録](https://user-images.githubusercontent.com/82762778/116816401-be3f4f00-ab9c-11eb-9048-24f5e03444c2.png)
@@ -22,3 +22,5 @@ Webサーバーソフト...Tomcat
 ![ログイン画面](https://user-images.githubusercontent.com/82762778/116816793-66094c80-ab9e-11eb-8038-1bf00fdf280f.png)
 
 ![ジャンケンゲーム](https://user-images.githubusercontent.com/82762778/116816813-78838600-ab9e-11eb-92b1-c3bb24ec6a5f.png)
+
+3-1. ジャンケンで負けた時
