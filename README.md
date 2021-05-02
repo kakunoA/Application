@@ -26,3 +26,7 @@ Webサーバーソフト...Tomcat
 3-1. ジャンケンで負けた時、「もう一回」ボタンのみが活性になる
 
 ![ジャンケン負け](https://user-images.githubusercontent.com/82762778/116817025-7e2d9b80-ab9f-11eb-9ce1-94c79ee80fcd.png)
+
+3-2. ジャンケンで勝った時、「もう一回」ボタンと「送信」ボタンが活性になる
+
+![Uploading ジャンケン勝ち.png…]()
