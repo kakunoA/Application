@@ -1,0 +1,9 @@
+@charset "UTF-8";
+#logoutMessage {
+	color: red;
+}
+
+#logout {
+	margin:10px;
+	display: inline-block;
+}
