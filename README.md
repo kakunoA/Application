@@ -1,3 +1,5 @@
+![管理者ユーザーでログイン](https://user-images.githubusercontent.com/82762778/116862095-35c5ba80-ac3f-11eb-8004-c5e609fe6ef5.png)
+![管理者ユーザーでログイン](https://user-images.githubusercontent.com/82762778/116862118-3d855f00-ac3f-11eb-8f55-fb1315d425af.png)
 # 概要
 登録ユーザーでログインし、コンピューターとジャンケンをします。先に5勝したほうが勝ちです。コンピューターに勝利し、  
 「送信」ボタンを押下すると成績上位8名とあなたの順位が画面に表示されます（勝ったときのジャンケンの回数が少ないほ  
@@ -40,8 +42,6 @@ Webサーバー...Tomcat
 ![ログアウト](https://user-images.githubusercontent.com/82762778/116817353-e03ad080-aba0-11eb-8374-078bd37d438e.png)
 
 6. ユーザー：hondaをロックし、hondaでログインした時にロックユーザー画面に遷移することを確認する
-
-![管理者権限ログイン](https://user-images.githubusercontent.com/82762778/116817482-8ab2f380-aba1-11eb-9172-aad61fbe20e7.png)
 
 ![ロック](https://user-images.githubusercontent.com/82762778/116817531-bf26af80-aba1-11eb-93c0-99ab7fa0a070.png)
 
