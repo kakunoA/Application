@@ -43,6 +43,8 @@ Webサーバー...Tomcat
 
 6. ユーザー：hondaをロックし、hondaでログインした時にロックユーザー画面に遷移することを確認する
 
+![管理者ユーザーでログイン](https://user-images.githubusercontent.com/82762778/116862191-55f57980-ac3f-11eb-937e-21c3f931ad53.png)
+
 ![ロック](https://user-images.githubusercontent.com/82762778/116817531-bf26af80-aba1-11eb-93c0-99ab7fa0a070.png)
 
 ![ロック結果](https://user-images.githubusercontent.com/82762778/116817569-eed5b780-aba1-11eb-8bde-aedda3618258.png)
