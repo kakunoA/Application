@@ -11,7 +11,7 @@ Webサーバー...Tomcat
 ブラウザ...Chrom  
 
 # 画面遷移  
-1. 管理者ユーザー：Z11101でログインし、ユーザー登録画面にてユーザーID：honda パスワード：honda11を登録
+1. 管理者ユーザー：K10001でログインし、ユーザー登録画面にてユーザーID：honda パスワード：honda11を登録
 
 ![ユーザー登録](https://user-images.githubusercontent.com/82762778/116816401-be3f4f00-ab9c-11eb-9048-24f5e03444c2.png)
 
